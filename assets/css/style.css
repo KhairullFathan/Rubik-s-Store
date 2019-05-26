@@ -1,0 +1,149 @@
+body{
+	background-color:#050a27;
+	position: relative;
+}
+.card{
+	border : 0px solid #050a27;
+}
+.card-body {
+	background-color: #050a27;
+	position: relative;
+	/*height: 700px;*/
+	overflow: hidden;
+}
+nav {
+	text-transform: uppercase;
+}
+nav a{
+	color:#f8f9fa!important;
+	font-weight: 600;
+}
+nav a.active{
+	color:#475CFD !important;
+	font-weight: 900 !important;
+}
+nav a:hover{
+	color:#475CFD !important;
+}
+nav .logo{
+	color:#f8f9fa!important;
+	font-weight: 400;
+}
+.bg-vector-1{
+	width: 30%;
+	position: absolute;
+	bottom: -30px;
+	right: 90px;
+}
+.content-main{
+	margin-top: 100px;
+}
+.content-main h1{
+	font-weight: 100;
+}
+.judul-bold{
+	text-transform: uppercase; 
+	color:#475CFD !important;
+	font-weight: 900;
+}
+.content-main p{
+	font-size: 25px;
+	line-height: 30px;
+
+}
+.content-main .tombol{
+	text-transform: uppercase;
+	background-color: #475CFD !important;
+	border-color: #475CFD !important;
+	color:#050a27;
+}
+.content-main .tombol:hover{
+	background-color:#050a27 !important;
+	border-color: #475CFD !important;
+	color:#475CFD !important;
+}
+.bg-vector-2{
+	width: 45%;
+	position: absolute;
+	bottom: 60px;
+	right: 90px;
+}
+.input-saya{
+	background-color: transparent;
+	border-color:  #004085;
+	color: #004085;
+}
+.input-saya:focus{
+	background-color: #001085;
+	border-color:  #475cfd;
+	color: #475cfd;
+}
+.product{
+	position: relative;}
+
+.gan:hover::after{
+	content: "Gan 356 Air | Price: Rp.650.000";
+	text-align: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	line-height: 250px;
+	color:white;
+	display: block;
+	background-color: rgba(0,0,0,.7);
+	border: 1px solid #475cfd;
+	height: 100%;
+	width: 100%;
+}
+.qiyi:hover::after{
+	content: "Qiyi | Price: Rp.325.000";
+	text-align: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	line-height: 250px;
+	color:white;
+	display: block;
+	background-color: rgba(0,0,0,.7);
+	border: 1px solid #475cfd;
+	height: 100%;
+	width: 100%;
+}
+.yong:hover::after{
+	content: "Yong Jun | Price: Rp.450.000";
+	text-align: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	line-height: 250px;
+	color:white;
+	display: block;
+	background-color: rgba(0,0,0,.7);
+	border: 1px solid #475cfd;
+	height: 100%;
+	width: 100%;
+}
+.moyu:hover::after{
+	content: "Moyu | Price: Rp.220.000";
+	text-align: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	line-height: 250px;
+	color:white;
+	display: block;
+	background-color: rgba(0,0,0,.7);
+	border: 1px solid #475cfd;
+	height: 100%;
+	width: 100%;
+}
+.page-nav{
+	background-color: #475cfd !important; 
+	border-color:	#004085 !important;
+	color: #004085 !important;
+}
+.page-nav:hover{
+	background-color:#050a27 !important;
+	border-color: #475CFD !important;
+	color:#475CFD !important;
+}

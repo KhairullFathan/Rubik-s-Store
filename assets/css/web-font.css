@@ -1,0 +1,23 @@
+@font-face	{
+	font-family : "Baloo";
+	src 		: url('../font/Baloo/Baloo-Regular.ttf') format('truetype');
+}
+@font-face	{
+	font-family : "Montserrat";
+	src 		: url('../font/Montserrat/Montserrat-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family : "Viga";
+	src 		: url('../font/Viga/Viga-Regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: "Montserrat-Thin";
+	src 		: url('../font/Montserrat/Montserrat-Thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: "Montserrat-Bold";
+	src 		: url('../font/Montserrat/Montserrat-ExtraBold.ttf') format('truetype');
+}
+
+.font-baloo {font-family: 'Baloo', arial;}.font-montserrat{font-family: 'Montserrat', arial;}.font-viga{font-family: 'Viga',arial;}.font-montserrat-thin{font-family: 'Montserrat-Thin', arial;}.font-montserrat-bold{font-family: 'Montserrat-Bold', arial;}
+
